@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "evnte76b930a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
